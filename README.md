@@ -3,7 +3,6 @@
   <img src="https://badge.mediaplus.ma/binary/aidbrm" alt="aidbrm's 42 stats">
 </p>
 - 🧠 I’m currently a student at 1337 Benguerir (42 Network).
-- AKA = MR ROBOT
 
 <!--
 **ayoub-idbrm/AYOUB-IDBRM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
