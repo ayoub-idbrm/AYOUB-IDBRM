@@ -26,28 +26,6 @@
 
 ---
 
-## 📈 Parcours d’apprentissage
-- **Frontend avancé :** Patterns React, Vue 3 Composition API, animations GSAP  
-- **IA / ML :** Python, bases du NLP, fondamentaux du Machine Learning  
-- **Optimisation des performances :** Web Vitals, découpage du code, stratégies de cache  
-
----
-
-## 📫 Me contacter
-<div align="left">
-<a href="mailto:abdoulyassir324@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/ayoub-idbrm">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/yassir-abdoul">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-</div>
-
----
-
 ## 📊 Statistiques GitHub
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ayoub-idbrm&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
