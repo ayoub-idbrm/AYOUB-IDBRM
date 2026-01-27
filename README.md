@@ -35,34 +35,6 @@
 
 ---
 
-## 💡 Projets phares
-
-| Projet | Stack technique | Description |
-|-------|----------------|-------------|
-| SaaS de location de voitures | Laravel, Vue.js, Bootstrap | Solution SaaS complète pour la gestion des agences de location |
-| D’autres projets arrivent bientôt… | - | - |
-
----
-
-## 🎨 Philosophie de développement
-*"Un code propre, une architecture évolutive et une conception centrée utilisateur sont les piliers de mon approche de développement."*
-
----
-
-## 📌 En bref
-- 🔭 **Spécialité :** Développement web full-stack  
-- 🌱 **Apprentissage :** Toujours à la recherche de nouveaux frameworks et bonnes pratiques  
-- 🤝 **Collaboration :** Ouvert aux projets open-source Laravel & Vue.js  
-- 💡 **Approche :** Résolution de problèmes avec un code efficace et maintenable  
-- 😄 **État d’esprit :** Positivité et bonne humeur dans chaque projet  
-
----
-
-<div align="center">
-🚀 Construisons quelque chose d’exceptionnel ensemble !  
-<img src="https://komarev.com/ghpvc/?username=ayoub-idbrm&color=58a6ff&style=flat-square" />
-</div>
-
 <!--
 **ayoub-idbrm/AYOUB-IDBRM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
